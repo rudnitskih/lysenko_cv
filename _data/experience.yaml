@@ -1,8 +1,8 @@
 en:
   - duration: "2020 – ..."
     company: 
-      name: 'SURGe, Support to Ukraine’s Reforms for Governance'
-      url:  "https://edge.in.ua/"
+      name: "SURGe, Support to Ukraine’s Reforms for Governance"
+      url:  "edge.in.ua"
     position: "Penitentiary probation expert"
     description: "Regulation development and implementation of national level projects in the in the penitentiary field"
   - duration: "2019"
@@ -14,7 +14,7 @@ en:
   - duration: "2014 – 2018"
     company:
       name: "The Institute of Criminal Execution Service"
-      url: ikvsu.kvs.gov.ua/"
+      url: "ikvsu.kvs.gov.ua/"
     position: "Associate Professor of the Penitentiary Department"
     description: "Teaching of Penitentiary Law"
   - duration: "2013 – 2014"
@@ -33,8 +33,8 @@ ua:
   - duration: "2020 - ..."
     company:
       name: "Проєкту «Супровід урядових реформ в Україні»(SURGe)"
-      url: "https://www.facebook.com/surge.in.ua/"
-    position: "Експертка з пенітенціарної пробації "
+      url: "edge.in.ua"
+    position: "Експертка з пенітенціарної пробації"
     description: "Розробка та запровадження нормативно-правових актів та реалізація проектів національного рівня у сфері виконання та відбування покарань"
   - duration: "2019"
     company:
